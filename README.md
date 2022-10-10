@@ -1,5 +1,3 @@
-TEST
-
 # TimeOff.Management
 
 Web application for managing employee absences.
