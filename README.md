@@ -1,8 +1,12 @@
-# Deploy Node Js app with AWS Elastic Beanstalk and CodePipeline
+# Deploy NodeJs app with AWS Elastic Beanstalk and CodePipeline
 
 ## Architecture diagram demonstrating planned solution
 
+![alt text](https://github.com/jorgealvarezguzman/timeoff-management-application/architecture1.png)
+**Figure 1. ** NodeJs app with AWS Elastic Beanstalk and CodePipeline
 
+![alt text](https://github.com/jorgealvarezguzman/timeoff-management-application/architecture2.png)
+**Figure 2. ** NodeJs App AWS Elastic Beanstalk Architecture
 
 ## Timeoff-management fork on local GitHub repository
 
