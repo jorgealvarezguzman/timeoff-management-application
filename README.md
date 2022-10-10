@@ -3,10 +3,10 @@
 ## Architecture diagram demonstrating planned solution
 
 ![alt text](https://github.com/jorgealvarezguzman/timeoff-management-application/blob/master/architecture1.png)
-**Figure 1. ** NodeJs app with AWS Elastic Beanstalk and CodePipeline
+**Figure 1.** NodeJs app with AWS Elastic Beanstalk and CodePipeline
 
 ![alt text](https://github.com/jorgealvarezguzman/timeoff-management-application/blob/master/architecture2.png)
-**Figure 2. ** NodeJs App AWS Elastic Beanstalk Architecture
+**Figure 2.** NodeJs App AWS Elastic Beanstalk Architecture
 
 ## Timeoff-management fork on local GitHub repository
 
