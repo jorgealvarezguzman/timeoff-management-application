@@ -16,7 +16,7 @@ https://github.com/jorgealvarezguzman/timeoff-management-application
 
 Running on AWS provisioned using Elastic Beanstalk.
 
-## Application must be deployed using a fully automated continous integration solution, triggered by a change in source control
+## Application must be deployed using a fully automated continuous integration solution, triggered by a change in source control
 
 Deployed using CodePipeline.
 
