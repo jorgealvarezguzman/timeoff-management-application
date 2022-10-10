@@ -1,3 +1,32 @@
+# Deploy Node Js app with AWS Elastic Beanstalk and CodePipeline
+
+## Architecture diagram demonstrating planned solution
+
+
+
+## Timeoff-management fork on local GitHub repository
+
+https://github.com/jorgealvarezguzman/timeoff-management-application
+
+## Required infrastructure running on cloud provider of preference, provisioned using some sort of infrastructure as code solution
+
+Running on AWS provisioned using Elastic Beanstalk.
+
+## Application must be deployed using a fully automated continous integration solution, triggered by a change in source control
+
+Deployed using CodePipeline.
+
+## Application should be secured from external access and the application should be serving via standard HTTP and HTTPS protocols
+
+Access allowed only for own configured ip address (via VPC route table).
+
+http://timeoffmanagementapplication1-env.eba-z3ans2cg.us-east-2.elasticbeanstalk.com
+
+## The application should be highly available and load balanced
+
+The environment is load balanced and auto scaled with a minimum of 1 instance running, and a maximum of 4 instances. All capacity related parameters are customizable. The app is available on any Availability Zone.
+
+
 # TimeOff.Management
 
 Web application for managing employee absences.
